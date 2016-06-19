@@ -29,8 +29,8 @@ isBasedOnUrl: 'http://www.core77.com/posts/36473/'
 title: >-
   Templates Are Dead: 5 Ways Scalable Design Will Change The Way We Build
   Websites
-datePublished: '2016-06-19T03:37:33.877Z'
-dateModified: '2016-06-19T03:37:33.708Z'
+datePublished: '2016-06-19T03:37:44.408Z'
+dateModified: '2016-06-19T03:37:44.256Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-19-templates-are-dead-5-ways-scalable-design-will-change-the-w.md
