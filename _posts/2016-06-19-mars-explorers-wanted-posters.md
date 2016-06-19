@@ -28,8 +28,8 @@ app_links: []
 isBasedOnUrl: >-
   http://mars.nasa.gov/multimedia/resources/mars-posters-explorers-wanted/index.cfm?linkid=25534071
 title: Mars Explorers Wanted Posters
-datePublished: '2016-06-19T03:37:44.498Z'
-dateModified: '2016-06-19T03:37:44.348Z'
+datePublished: '2016-06-19T03:37:44.810Z'
+dateModified: '2016-06-19T03:37:44.678Z'
 starred: false
 sourcePath: _posts/2016-06-19-mars-explorers-wanted-posters.md
 inFeed: true
