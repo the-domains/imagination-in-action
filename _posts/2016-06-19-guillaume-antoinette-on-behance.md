@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.behance.net/imustcre8'
 title: guillaume antoinette on Behance
-datePublished: '2016-06-19T03:36:59.287Z'
-dateModified: '2016-06-19T03:36:59.200Z'
+datePublished: '2016-06-19T03:36:59.290Z'
+dateModified: '2016-06-19T03:36:59.203Z'
 starred: false
 sourcePath: _posts/2016-06-19-guillaume-antoinette-on-behance.md
 inFeed: true
